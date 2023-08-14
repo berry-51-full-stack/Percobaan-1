@@ -1,3 +1,4 @@
 tulisan 1
 yang pertama saat
-yang kedua
+yang kedua di hapus 
+masuk yang ketiga
