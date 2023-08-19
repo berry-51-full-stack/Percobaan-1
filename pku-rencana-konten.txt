@@ -6,3 +6,4 @@ belajar full stack
   setelah codepolitan
 belajar kuliah
 belajar jaringan
+belajar phyton
