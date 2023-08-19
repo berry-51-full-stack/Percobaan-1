@@ -1,10 +1,9 @@
 rencana konten berry
 belajar full stack 
-- di codepolitan 
-  ini harus komplit
+- di codepolitan
+  tapi unpas harus komplit
 - lalu di rakamin
-  ini setelah codepolitan
-belajar unpas
+  setelah codepolitan
 belajar kuliah
 belajar jaringan
 belajar phyton
